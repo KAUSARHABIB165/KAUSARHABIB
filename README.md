@@ -22,4 +22,4 @@ Turning raw data to meaningfull Insights. Currently serving as Data Analyst in A
 ## 📞 Contacts
 - 🌏 [LinkedIn](https://www.linkedin.com/in/kausar-habib-28299541b/)
 -  📭 [Gmail](kausarhabib0512@gmail.com)
--  ℹ️ [GITHUB](
+-  ℹ️ [GITHUB](https://github.com/KAUSARHABIB165)
